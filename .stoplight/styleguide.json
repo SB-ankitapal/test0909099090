@@ -1,0 +1,25 @@
+{
+  "name": "test0909099090",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "test": {
+      "id": "DOHAs6tJ7cnDsp47iea-5",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "test"
+    }
+  },
+  "extendedDefault": false
+}
